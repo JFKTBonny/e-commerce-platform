@@ -1,0 +1,11 @@
+/app/src/main/java/com/ecommerce/user/dto/LoginRequest.java
+/app/src/main/java/com/ecommerce/user/UserServiceApplication.java
+/app/src/main/java/com/ecommerce/user/dto/RegisterRequest.java
+/app/src/main/java/com/ecommerce/user/User.java
+/app/src/main/java/com/ecommerce/user/UserController.java
+/app/src/main/java/com/ecommerce/user/dto/AuthResponse.java
+/app/src/main/java/com/ecommerce/user/dto/UserDTO.java
+/app/src/main/java/com/ecommerce/user/JwtService.java
+/app/src/main/java/com/ecommerce/user/UserRepository.java
+/app/src/main/java/com/ecommerce/user/GlobalExceptionHandler.java
+/app/src/main/java/com/ecommerce/user/UserService.java
